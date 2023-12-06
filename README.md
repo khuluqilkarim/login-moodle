@@ -6,7 +6,7 @@ change username and password in config file
 
 ```python
 username = '1203210040'
-password = 'ittelpon'
+password = f'ittelpon'
 ```
 
 and run as normal user did
